@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge - A Backend Developer living in Germany</h1>
+<h1 align="center">Hey 👋, I'm Jorge - A Backend Developer living in Germany</h1>
 
 <h2 align="center">I'm passionate about building efficient web and client-server applications and managing cloud computing infrastructure</h2>
 
