@@ -10,9 +10,6 @@ With over 4 years of experience, I've developed a knack for transforming ideas i
 - Utilizing Docker, GitHub, Git, JIRA, and CI/CD tools like Github Workflows and Jenkins
 
 <h3 align="left">🚀 Interested in boosting your Cloud Infrastructure? Let's collaborate!</h3>
-<p align="left">👉<strong>Contact me:<strong>
-<a href="mailto:jorgesisco17@gmail.com" title="Send me an email"><strong>CLICK ME</strong></a>
-</p>
 
 <hr class="solid">
 
